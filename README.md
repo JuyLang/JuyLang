@@ -57,7 +57,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Juylang-email" />
   </a>
   <a href="https://twitter.com/juy_lang" target="top">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="JuyLang-twitter" />
+    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png" alt="JuyLang-twitter" />
   </a> 
 </div>
 
