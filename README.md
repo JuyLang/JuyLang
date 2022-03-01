@@ -45,7 +45,7 @@
 
 <br>
 
-<h2 align="center">Info</h2>
+<h2 align="center">Information</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
