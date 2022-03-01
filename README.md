@@ -3,7 +3,7 @@
   <img src="svg/khuongduy.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<h2 align="center">🛠 Programming languages ​​and tools 🛠</h2>
+<h2 align="center">🛠 Languages ​​and tools 🛠</h2>
 <br>
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -34,7 +34,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="JuyLangd">
+  <a href="#" title="JuyLangDev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuyLang&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="JuyLangDev">
