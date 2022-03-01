@@ -1,6 +1,6 @@
 <!-- Khương Duy Dev -->
 <a href="#" target="_blank">
-  <img src="svg/khuongduy.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/khuongduy.svg" width="1200" alt="Clicks to see the source" />
 </a>
 
 <h2 align="center">🛠 Languages ​​and tools 🛠</h2>
